@@ -1,2 +1,2 @@
 # calc
-My first project in python 
+A simple calculator
